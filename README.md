@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HazraSoham
-- 👀 I’m interested in doftware development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning salesforce
 - 💞️ I’m looking to collaborate on any salesforce related projects
 - 📫 Mail me at samhazra67@gmail.com
