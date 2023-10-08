@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HazraSoham
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on any salesforce related projects
+- 💞️ I’m looking to collaborate on any java related projects
 - 📫 Mail me at samhazra67@gmail.com
 
 <!---
