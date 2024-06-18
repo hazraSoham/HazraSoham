@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on any java related projects
-- 📫 Mail me at samhazra67@gmail.com
+- 📫 Connect with me on https://github.com/HazraSoham
 
 <!---
 HazraSoham/HazraSoham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
